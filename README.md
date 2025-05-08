@@ -11,7 +11,7 @@
     <ul >
       <li>🔭 I'm actively building My Portfolio at the moment.</li>
     <li>👀 I’m currently learning everything 🤣</li>
-    <li>🌱 I’m passionate about <strong>software engineering</strong>, with a focus on both <strong>manual and automation testing</strong>. I thrive in environments where effective communication, <strong>creative problem-solving, strong observation skills, and patience</strong> are key to enhancing software quality and improving testing processes." <strong>BanglaBert, Bert, Generative AI, LLM.</strong></li>
+    <li>🌱 I’m passionate about <strong>software engineering</strong>, with a focus on both <strong>manual and automation testing</strong>. I thrive in environments where effective communication, <strong>creative problem-solving, strong observation skills, and patience</strong> are key to enhancing software quality and improving testing processes." </li>
     <li>📫 How to reach me--></li>
     </ul>
   
